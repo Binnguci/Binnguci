@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [E-commerce website selling uniforms](https://github.com/ThanhBinh2219/e-commerce_web_reactjs)
 
-- 🌱 I’m currently learning **Spring Boot, ReactJs,Docker, Kubernetes**
+- 🌱 I have learn **Spring Boot, ReactJs** for 6 month
 
 - 👯 I’m looking to collaborate on [Server Android Project](https://github.com/ThanhBinh2219/server-android-project)
 
